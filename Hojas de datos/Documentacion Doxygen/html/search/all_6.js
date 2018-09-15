@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['g_5fbuffer1_5fdma',['G_buffer1_DMA',['../_app_functions_8c.html#afd1cd2e37a82c5de05258f5409f4c6c5',1,'AppFunctions.c']]],
+  ['g_5fbuffer2_5fdma',['G_buffer2_DMA',['../_app_functions_8c.html#a5de3534ca265b59324bd638bb8cce270',1,'AppFunctions.c']]],
+  ['g_5fcmd',['G_cmd',['../_app_functions_8c.html#ae67dd18ab05d965c9bbaabcfb227404b',1,'AppFunctions.c']]],
+  ['g_5fdma_5ftransfer_5fdone',['G_dma_transfer_done',['../_f_w___d_m_a_8c.html#a8a9c72b426a65cca4d9938131122ee68',1,'G_dma_transfer_done():&#160;FW_DMA.c'],['../_f_w___d_m_a_8h.html#a8a9c72b426a65cca4d9938131122ee68',1,'G_dma_transfer_done():&#160;FW_DMA.c']]],
+  ['g_5festado_5fcancion',['G_estado_cancion',['../_app_functions_8c.html#a33ad19b5ab47d0fa5764224b78daa962',1,'AppFunctions.c']]],
+  ['g_5festado_5fdma',['G_estado_DMA',['../_app_functions_8c.html#a9ad7cdf1fbd255b61a8d31b176dce417',1,'AppFunctions.c']]],
+  ['g_5ffatfs',['G_fatfs',['../_app_functions_8c.html#af3fdc598c32ece2d05b5f3a7d49c7365',1,'AppFunctions.c']]],
+  ['g_5ffp',['G_fp',['../_app_functions_8c.html#a789cef84d8187d51ca76445e9830902c',1,'G_fp():&#160;AppFunctions.c'],['../_f_w___timer1_8c.html#a789cef84d8187d51ca76445e9830902c',1,'G_fp():&#160;AppFunctions.c']]],
+  ['g_5fmodo',['G_modo',['../_app_functions_8c.html#a5c795eadfdd0acb28342cac2aa9f2451',1,'AppFunctions.c']]],
+  ['g_5fnombres_5farchivos',['G_nombres_archivos',['../_app_functions_8c.html#acefeef3bdc47dc9be69820d0ba1e972e',1,'AppFunctions.c']]],
+  ['g_5fsong_5fcode',['G_song_code',['../_app_functions_8c.html#a378d10b357b411dc49ed8351e7d0e99f',1,'AppFunctions.c']]],
+  ['g_5fsongs_5fauthors',['G_songs_authors',['../_app_functions_8c.html#a491938f288364f40cc2a2e0192b67b0d',1,'AppFunctions.c']]],
+  ['g_5fsongs_5fdurations',['G_songs_durations',['../_app_functions_8c.html#aa9198929113065acbae2ab08480669a2',1,'AppFunctions.c']]],
+  ['g_5fsongs_5fnumber',['G_songs_number',['../_app_functions_8c.html#a42c0cc52b53713dc556e3c433e0c8f9a',1,'AppFunctions.c']]],
+  ['g_5fsongs_5ftitles',['G_songs_titles',['../_app_functions_8c.html#a1edf3810d5e9caabeac5747a286e4891',1,'AppFunctions.c']]],
+  ['g_5fstart_5ftransfer',['G_start_transfer',['../_app_functions_8c.html#a143745b7fada899695f2f77cfc08886a',1,'AppFunctions.c']]],
+  ['g_5ftimer_5fbuzzer',['G_Timer_Buzzer',['../_app_functions_8c.html#a013adf5ad9eec6f2e9a18d34355fe640',1,'AppFunctions.c']]],
+  ['g_5ftimer_5frx',['G_Timer_Rx',['../_f_w___u_a_r_t1___r_s232_8c.html#a8fef8518b0a6fbf326b15b0d089bba81',1,'G_Timer_Rx():&#160;FW_UART1_RS232.c'],['../_f_w___u_a_r_t1___r_s232_8h.html#a8fef8518b0a6fbf326b15b0d089bba81',1,'G_Timer_Rx():&#160;FW_UART1_RS232.c']]],
+  ['getfilequantity',['GetFileQuantity',['../_app_functions_8c.html#adcc967a6e9227c7bda7a70e5ea3c1c39',1,'AppFunctions.c']]],
+  ['getkey',['GetKey',['../_p_r___teclado_8h.html#a67ab1ae7bcd6658da28da80b48f5d12c',1,'PR_Teclado.c']]],
+  ['getlinemaxlenght',['GetLineMaxLenght',['../_p_r___l_c_d_8c.html#abba44d45b4cde9cc8879b7c5d42fdc43',1,'GetLineMaxLenght(void):&#160;PR_LCD.c'],['../_p_r___l_c_d_8h.html#abba44d45b4cde9cc8879b7c5d42fdc43',1,'GetLineMaxLenght(void):&#160;PR_LCD.c']]],
+  ['getports',['getPorts',['../class_qext_serial_enumerator.html#a6d8b9a5aece0a1419ceeef96e4401f88',1,'QextSerialEnumerator']]],
+  ['getports_5fsys',['getPorts_sys',['../class_qext_serial_enumerator_private.html#a0585eec8e37995f951f0d2016c7bd648',1,'QextSerialEnumeratorPrivate']]],
+  ['getsonginfo',['GetSongInfo',['../_app_functions_8c.html#afc00ad4fd722734ce770b6bf33e6dff4',1,'AppFunctions.c']]],
+  ['getsongnumber',['GetSongNumber',['../_app_functions_8c.html#a708f0b409d8ccde525ec76bd110c6ba3',1,'AppFunctions.c']]]
+];

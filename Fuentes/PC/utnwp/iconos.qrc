@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icono_next.png</file>
+        <file>icono_pause.png</file>
+        <file>icono_play.png</file>
+        <file>icono_prev.png</file>
+        <file>icono_stop.png</file>
+        <file>fondo_info_cancion.png</file>
+        <file>icono_lista.png</file>
+        <file>icon_utn.png</file>
+        <file>icono_repeat.png</file>
+        <file>icono_microSD.png</file>
+        <file>icono_volumen.png</file>
+    </qresource>
+</RCC>

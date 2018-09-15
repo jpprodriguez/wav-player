@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['salida',['SALIDA',['../_utiles_info2_8h.html#a180bb04c74aa394e9c1eab5d26506c2b',1,'UtilesInfo2.h']]],
+  ['scs',['SCS',['../_kit_inic_8h.html#a57d06a9e6a8f5abc296f987d4552894c',1,'KitInic.h']]],
+  ['scs_5fvalue',['SCS_Value',['../_kit_info2_8h.html#a4df2950de55388049cbb837e20e04c92',1,'KitInfo2.h']]],
+  ['sd',['SD',['../pc__rs232__handler_8h.html#a9f5064fb4edd1381305163ee726f8ca5',1,'pc_rs232_handler.h']]],
+  ['sec',['SEC',['../_regs_8h.html#a8bc5e463885769f21393880576c25f6b',1,'Regs.h']]],
+  ['segundos',['SEGUNDOS',['../_p_r___display7seg_8h.html#a53600094c12347b4b9cae071db04251a',1,'PR_Display7seg.h']]],
+  ['sin_5fcancion',['SIN_CANCION',['../_app_functions_8h.html#acbee57c81c9b861666dd4a788ab53c24',1,'AppFunctions.h']]],
+  ['songs_5fdir',['SONGS_DIR',['../_app_functions_8h.html#a713c5697cb38948c3e1dadbb34523aea',1,'AppFunctions.h']]],
+  ['ssp1',['SSP1',['../_regs_8h.html#a9f9e97ca0de169d99a6f3ad962e0bf5c',1,'Regs.h']]],
+  ['ssp1cpsr',['SSP1CPSR',['../_regs_8h.html#aff7a3b4b2db9031d48fc1748be4d50de',1,'Regs.h']]],
+  ['ssp1cr0',['SSP1CR0',['../_regs_8h.html#a0dd2f12ced738e84672fe19b1c0f13d2',1,'Regs.h']]],
+  ['ssp1cr1',['SSP1CR1',['../_regs_8h.html#a07ec57baa0581a21b7dce1c24e4222b8',1,'Regs.h']]],
+  ['ssp1dmacr',['SSP1DMACR',['../_regs_8h.html#adc43e1084fa48f3175dffcd8344bdfea',1,'Regs.h']]],
+  ['ssp1dr',['SSP1DR',['../_regs_8h.html#aceb33b7fc340bfd45932acf8d2da06ce',1,'Regs.h']]],
+  ['ssp1icr',['SSP1ICR',['../_regs_8h.html#af86860e9818da75a93859cc1b2bb8ced',1,'Regs.h']]],
+  ['ssp1imsc',['SSP1IMSC',['../_regs_8h.html#a58edb9011bd8a76113ffd5fcf55413db',1,'Regs.h']]],
+  ['ssp1mis',['SSP1MIS',['../_regs_8h.html#ac0b175a58e07fe4a0e092642c783f778',1,'Regs.h']]],
+  ['ssp1ris',['SSP1RIS',['../_regs_8h.html#a8a1cd6e5114cb6e81b1661ce02127124',1,'Regs.h']]],
+  ['ssp1sr',['SSP1SR',['../_regs_8h.html#a84f1918ddb556e2d68952ff6e6047a49',1,'Regs.h']]],
+  ['stcalib',['STCALIB',['../_regs_8h.html#a60527eaf65f64c9aad2a9c0731ffe728',1,'Regs.h']]],
+  ['stctrl',['STCTRL',['../_regs_8h.html#a887bd04ac58d2a8b7659b4ab2dcff40e',1,'Regs.h']]],
+  ['stcurr',['STCURR',['../_regs_8h.html#aa9474140ee4a4aa1b53af30b329aa728',1,'Regs.h']]],
+  ['stop_5fchecking',['STOP_CHECKING',['../_app_functions_8h.html#a6b6fe9cb720d43283658bdaea67aa53b',1,'AppFunctions.h']]],
+  ['streload',['STRELOAD',['../_regs_8h.html#a85462f1b8d2c2b8a18ca1531e3047e4d',1,'Regs.h']]]
+];
